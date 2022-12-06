@@ -17,6 +17,6 @@ cargo embed --chip nrf52840_xxAA --release
 
 **pre-requisites:**
 
-- rust installed
+- install `rust`
 - the following build target must be installed - `thumbv7em-none-eabihf`
-- install cargo embed
+- install `cargo-embed`
